@@ -1,6 +1,8 @@
 react-native-background-fetch &middot; [![npm](https://img.shields.io/npm/dm/react-native-background-fetch.svg)]() [![npm](https://img.shields.io/npm/v/react-native-background-fetch.svg)]()
 ==============================================================================
 
+This is just a variant of https://github.com/transistorsoft/react-native-background-fetch
+
 [![](https://dl.dropboxusercontent.com/s/nm4s5ltlug63vv8/logo-150-print.png?dl=1)](https://www.transistorsoft.com)
 
 By [**Transistor Software**](http://transistorsoft.com), creators of [**React Native Background Geolocation**](http://www.transistorsoft.com/shop/products/react-native-background-geolocation)
